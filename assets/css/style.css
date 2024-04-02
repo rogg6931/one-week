@@ -908,6 +908,7 @@
     align-items: center;
     top: calc(50% - 60px);
     left: calc(50% - 60px);
+    cursor: pointer;
     /* top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); cách căn giữa thứ 3*/
